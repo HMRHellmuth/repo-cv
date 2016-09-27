@@ -1,15 +1,15 @@
 # Curriculum Vitae
 
 ## Personal Details
-**Name**   Helene Maria Rosa Hellmuth 
+**Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Helene Maria Rosa Hellmuth 
 
-**Address**  Talent Square 518 | 5038 LZ Tilburg | Netherlands
+**Address**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talent Square 518 | 5038 LZ Tilburg | Netherlands
            
-**E-Mail**   helene_hellmuth@web.de
+**E-Mail**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; helene_hellmuth@web.de
 
-**Date of Birth** 17.07.1992
+**Date of Birth**&nbsp; 17.07.1992
 
-**Nationality** German
+**Nationality**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;German
 
 ## Education 
 * **Since October 2016** 
