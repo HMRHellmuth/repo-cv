@@ -30,18 +30,22 @@
 * G. C. E. A.-Level Abitur (Grade: 1.6)
 
 ## Work Experience 
-* **September 2015 – July 2016** 
+* **September 2015 – July 2016**  
 
-   Trainee at Phoenix Contact GmbH & Co.KG (Working in the departments Corporate Marketing, Public Relations, Corporate Sales Network Management and in the Swedish subsidiary)|
+   Trainee at Phoenix Contact GmbH & Co.KG  
+   (Working in the departments Corporate Marketing, Public Relations, Corporate Sales Network Management and in the Swedish subsidiary)
 * **March 2014 – August 2015**
 
-   Research assistant at Fraunhofer Institute for Process Innovation and Automation (Statistical data analysis, preparation of training material, scientific research)
+   Research assistant at Fraunhofer Institute for Process Innovation and Automation  
+   (Statistical data analysis, preparation of training material, scientific research)
 * **September 2013 – February 2014**
 
-   Internship at Liebherr Great Britain Ltd. (Finance and Administration Department, covering a variety of projects and tasks)
+   Internship at Liebherr Great Britain Ltd.  
+   (Finance and Administration Department, covering a variety of projects and tasks)
 * **June – September 2011 & August – September 2012**
 
-   Temporary job during the holidays at Discover Rügen (Childcare, sport-animation, planning, coordinating and conducting events)
+   Temporary job during the holidays at Discover Rügen  
+   (Childcare, sport-animation, planning, coordinating and conducting events)
 
 ## Computer Skills 
 * MS Office
